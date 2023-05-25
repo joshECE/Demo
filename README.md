@@ -1,2 +1,4 @@
 # Demo
-for a refresher on GitHub's workflow
+| I | FORGOT | HOW |
+--------------------
+| TO | USE | THIS |
